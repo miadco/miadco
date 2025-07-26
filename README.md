@@ -5,6 +5,12 @@ Real-World Microsoft 365 + Identity Labs | GRC-Aware & Automation-Inclined
 
 I'm pivoting into the world of Identity & Access Management, Cloud Support, and GRC with hands-on technical labs and enterprise simulations designed to solve real business problems — not just pass exams. My work bridges Microsoft Entra ID, Microsoft 365, and Purview compliance tools with automation and structured documentation.
 
+![SC-900](https://img.shields.io/badge/SC--900-Passed-blue)
+![AZ-900](https://img.shields.io/badge/AZ--900-Passed-blue)
+![SailPoint](https://img.shields.io/badge/SailPoint-Certified-blue)
+![PowerShell](https://img.shields.io/badge/PowerShell-Ready-lightgrey)
+
+
 ---
 
 ## 🔧 Featured Labs
