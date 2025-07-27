@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Michael Cooper — aka `miadco`
+# 👋 Hey, I'm Michael A. Cooper — aka `miadco`
 
 **Cloud-Ready IAM + Support Analyst**  
 Real-World Microsoft 365 + Identity Labs | GRC-Aware & Automation-Inclined
