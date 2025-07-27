@@ -27,7 +27,7 @@ I’m not just looking for a job. I’m ready to be an asset on day one.
 ## 🔧 Featured Labs
 
 ### 🛡️ SC-300: Identity and Access Administrator Labs  
-[🔗 View SC-300 Labs Repository »](https://github.com/miadco/SC-300-Identity-and-Access-Administrator)
+[🔗 View SC-300 Labs Repository »](https://github.com/miadco/SC-300-Identity-and-Access-Labs)
 
 Hands-on labs aligned to the SC-300 certification, covering:
 
@@ -43,7 +43,7 @@ Hands-on labs aligned to the SC-300 certification, covering:
 ---
 
 ### 🧰 Microsoft 365 Support Escalation Lab  
-[🔗 View Microsoft 365 Lab Repository »](https://github.com/miadco/m365-support-escalation-lab)
+[🔗 View Microsoft 365 Lab Repository »](https://github.com/miadco/M365-Support-Escalation)
 
 Simulated Tier 1–2 helpdesk experience across:
 
