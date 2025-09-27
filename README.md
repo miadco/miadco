@@ -3,6 +3,7 @@
 **Cloud-Ready IAM + Support Analyst**  
 Real-World Microsoft 365 + Identity Labs | GRC-Aware & Automation-Inclined
 
+![Security+](https://img.shields.io/badge/Security%2B-Certified-red) 
 ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-red)
 ![SC-900](https://img.shields.io/badge/SC--900-Certified-blue)
 ![AZ-900](https://img.shields.io/badge/AZ--900-Certified-blue)
