@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Michael A. Cooper — aka `miadco`
 
-**Cloud-Ready IAM + Support Analyst**  
+**Cloud-Ready IAM + Technical Support Analyst**  
 Real-World Microsoft 365 + Identity Labs | GRC-Aware & Automation-Inclined
 
 ![Security+](https://img.shields.io/badge/Security%2B-Certified-red) 
