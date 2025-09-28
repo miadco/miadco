@@ -63,9 +63,7 @@ Simulated Tier 1–2 helpdesk experience across:
 I'm actively documenting and refining the following labs:
 
 - **Azure Helpdesk Ticketing System Lab**
-- **Microsoft Purview DLP + HIPAA Auditing Lab**
 - **Active Directory Essentials**
-- **Hybrid Identity Lab (AD + Entra ID Sync)**
 
 These are under active construction and will be fully published with screenshots and detailed READMEs soon.
 
