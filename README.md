@@ -8,7 +8,7 @@ AI Agent Governance | IAM/GRC | Runtime Authorization | Verifiable Audit Evidenc
 
 I build security-minded systems at the intersection of identity, governance, and AI agents.
 
-My background started with hands-on Microsoft 365 identity and security labs: Entra ID, Conditional Access, Intune, Purview, Active Directory, documentation, validation, and evidence collection. That work taught me to think in terms of least privilege, policy, auditability, and operational proof.
+My background includes hands-on Microsoft 365 identity and security labs: Entra ID, Conditional Access, Intune, Purview, Active Directory, documentation, validation, and evidence collection. That work taught me to think in terms of least privilege, policy, auditability, and operational proof.
 
 My current focus is **Stipul**, an open-source agent authorization and audit platform.
 
