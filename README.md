@@ -16,9 +16,7 @@ My current focus is **Stipul**, an open-source agent authorization and audit pla
 
 AI agents should not operate with ambient authority. They should act within explicit runtime boundaries, have every decision recorded, and produce evidence that can be verified after the session.
 
-**Writ** enforces the **Charter**, records every decision in the **Chronicle**, and produces a cryptographic **Seal**.
-
-I focus on runtime authorization, agent oversight, least-privilege execution, audit evidence, and practical governance systems that developers can actually run.
+**Writ** enforces the **Charter**, every decision recorded in the **Chronicle**, and verified with a cryptographic **Seal**.
 
 📁 [Stipul Repository](https://github.com/miadco/stipul)
 
